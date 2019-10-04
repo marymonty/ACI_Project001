@@ -1,0 +1,40 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADDITIONAL NOTES:
+Held notes are 1 q 2 w 3 4 r 5 t 6 y 7 8 (like an inverse piano where 1-9 are C - C and q-y are C# - A#)
+When you hit a held note, it will play until you hit backspace to stop it. Notes are in a queue so the first note you play will be the first note to stop.
+To change the speed of a held note you hit the - button or the = button.
+To change what sound is played for a held note you hit the [ button or the ] button.
+
+Short notes are a z s x d f v g b h n j k (also like an inverse piano, same set up as above but a-k is C - C and z-n is C# - A#)
+When you hit a short note, it will play for as long as you hold down the key (or until the sound clip ends).
+To change the speed of a short note you hit the , or the . button (like < and > but you dont hit the shift bar).
+To change what sound is played for a short note you hit the ; button or the ' button.
